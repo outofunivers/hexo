@@ -1,3 +1,1 @@
-# hexo
-test
-first use github for windows
+# outofunivers.github.io
